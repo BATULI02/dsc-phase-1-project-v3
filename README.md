@@ -41,3 +41,6 @@ The dataset consists of 90,348 records with 31 columns, detailing various aspect
 - **Weather Conditions**: The weather present at the time of the accident.
 - **Probable Cause**: The identified or suspected cause(s) of the accident.
 - **Purpose of Flight**: The intended purpose of the flight, such as personal, instructional, or business-related.
+
+References
+Tableau Link: [Tableau](https://public.tableau.com/app/profile/batuli.abdullah/viz/projectaviation_17275287119250/Dashboard1?publish=yes)
